@@ -1,7 +1,15 @@
 # 一些常用配置项
 
-## Install
+## 安装
 
 ```sh
-npm install --save-dev @dctxf/config
+npm install --save-dev @dctxf/tsconfig
+```
+
+## 使用
+
+```
+{
+  "extends": "@dctxf/tsconfig"
+}
 ```
