@@ -1,0 +1,26 @@
+{
+  "name": "@dctxf/tsconfig",
+  "version": "1.0.0",
+  "description": "a tsconfig for my project",
+  "license": "MIT",
+  "repository": "dctxf/tsconfig",
+  "author": {
+    "name": "dctxf",
+    "email": "idctmz@gmail.com",
+    "url": "https://dctxf.com"
+  },
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ]
+}
